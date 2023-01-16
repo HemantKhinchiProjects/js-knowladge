@@ -10,6 +10,6 @@ appDiv.innerHTML = `<h1>JS Reduce example ${reduce()}</h1>`;
 //const functionDisplay = document.querySelector('.simpleFunction');
 //functionDisplay.innerHTML = `<h1>JS Starter</h1> ${sample()}`;
 
-const functionDisplay = document.querySelector('.simpleFunction');
-functionDisplay.innerHTML = <h1>Reduce method </h1>;
+// const functionDisplay = document.querySelector('.simpleFunction');
+// functionDisplay.innerHTML = <h1>Reduce method </h1>;
 reduce();
